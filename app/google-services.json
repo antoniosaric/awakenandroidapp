@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "830507394984",
+    "project_id": "awakenforandroidtest-168307"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:830507394984:android:676d302468fc2120",
+        "android_client_info": {
+          "package_name": "com.example.tonysaric.awakenapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "830507394984-8eobsl14dl15jeku2jbvc9im7bouh2ev.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tonysaric.awakenapp",
+            "certificate_hash": "f2faed57dcbfaf29eaaef15b74e91eeab6c8c195"
+          }
+        },
+        {
+          "client_id": "830507394984-d9rh325r6lvt2cp9hudilgnvb9pn4854.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBot29mMDyHojXaqYCxP8JSfkbF-7Xc2UM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
